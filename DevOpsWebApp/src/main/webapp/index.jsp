@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,5 +5,7 @@
 </head>
 <body>
     <h1>Welcome Srimathi S</h1>
+    <p>This is my web application</p>
 </body>
 </html>
+
