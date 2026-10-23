@@ -4,8 +4,8 @@
     <title>Srimathi S</title>
 </head>
 <body>
-    <h1>Welcome Srimathi S</h1>
-    <p>This is my web application</p>
+    <h1>Srimathi S</h1>
+    <p>This is my Web Application</p>
 </body>
 </html>
 
